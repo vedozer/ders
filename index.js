@@ -14,4 +14,8 @@ const bolme = (a,b) => {
     return a/b;
 }
 
+const kareAl = (a,b) => {
+    return a%b;
+}
+
 console.log("Merhaba Dünya");
