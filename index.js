@@ -14,8 +14,8 @@ const bolme = (a,b) => {
     return a/b;
 }
 
-const kareAl = (a,b) => {
-    return a%b;
+const kareAl = (a) => {
+    return a * a;
 }
 
 console.log("Merhaba Dünya");
