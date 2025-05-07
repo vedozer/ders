@@ -13,3 +13,5 @@ const carpma = (a,b) => {
 const bolme = (a,b) => {
     return a/b;
 }
+
+console.log("Merhaba Dünya");
